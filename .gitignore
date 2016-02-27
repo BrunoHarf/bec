@@ -1,3 +1,9 @@
+#Exclusão do executável
+main
+
+# Exclusão de arquivos do Mac OS X
+.DS_Store
+
 # Object files
 *.o
 *.ko
